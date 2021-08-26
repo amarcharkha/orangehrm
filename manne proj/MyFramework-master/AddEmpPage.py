@@ -22,4 +22,5 @@ class AddEmpPageFlows(MyParentClass):
         except:
             self.MyGetScreenShot("AddNewEmp_Basic")
             return print('Exception : Web element related to method "AddNewEmp_Basic" not found')
+            print(" asadsdcfndcdec,mfew")
 
